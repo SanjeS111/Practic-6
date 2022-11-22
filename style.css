@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+    background: url(https://i.pinimg.com/originals/bb/b7/96/bbb79637fa352254fe93ba9aacad1407.png) bottom no-repeat;
+    background-size: cover;
+}
+h1 {
+    color: rgb(238, 14, 14);
+}
+
+div {
+display: flex;
+justify-content: space-evenly;
+height: 30%;
+}
+
+a {
+    text-decoration: none;
+    line-height: 2.5;
+}
